@@ -1,0 +1,22 @@
+18219   changed feature:[ 0  1 37] kendalltau=-0.4286  ratioNDCG:-0.2618   delta_NDCG =  -0.1309
+18230   changed feature:[ 0  1 34] kendalltau=-0.1749  ratioNDCG:0.3628   delta_NDCG =  0.1324
+18328   changed feature:[ 0  1 22] kendalltau=-0.8095  ratioNDCG:0.3691   delta_NDCG =  0.3691
+18342   changed feature:[0 1 2] kendalltau=-0.2143  ratioNDCG:-1.0   delta_NDCG =  -0.5
+18356   changed feature:[ 0  1 22] kendalltau=-0.2857  ratioNDCG:0.1652   delta_NDCG =  0.1635
+18371   changed feature:[ 0  1 40] kendalltau=-0.3333  ratioNDCG:0.1882   delta_NDCG =  0.1601
+18377   changed feature:[ 0  1 39] kendalltau=-0.619  ratioNDCG:0.1629   delta_NDCG =  0.0804
+18378   changed feature:[ 0  1 20] kendalltau=-0.2833  ratioNDCG:0   delta_NDCG =  0.0
+18386   changed feature:[ 0  1 10] kendalltau=-0.2952  ratioNDCG:0.3008   delta_NDCG =  0.2168
+18400   changed feature:[ 0  1 31] kendalltau=-0.7857  ratioNDCG:0.369   delta_NDCG =  0.1845
+18401   changed feature:[ 0  1 38] kendalltau=-0.2667  ratioNDCG:0   delta_NDCG =  0.0
+18402   changed feature:[ 0  1 13] kendalltau=-0.3167  ratioNDCG:0.1884   delta_NDCG =  0.0671
+18410   changed feature:[ 0  1 31] kendalltau=-0.246  ratioNDCG:0.5867   delta_NDCG =  0.4816
+18411   changed feature:[ 0  1 36] kendalltau=-0.35  ratioNDCG:0   delta_NDCG =  0.0
+18429   changed feature:[ 0  1 29] kendalltau=-0.4167  ratioNDCG:0.6017   delta_NDCG =  0.4286
+18437   changed feature:[ 0  1 45] kendalltau=-0.4286  ratioNDCG:0.4208   delta_NDCG =  0.3847
+18438   changed feature:[ 0  1 36] kendalltau=-0.2167  ratioNDCG:0.7788   delta_NDCG =  0.6876
+18450   changed feature:[ 0  1 32] kendalltau=-0.3524  ratioNDCG:1.0   delta_NDCG =  0.5706
+18457   changed feature:[ 0  1 37] kendalltau=-0.6429  ratioNDCG:0   delta_NDCG =  0.0
+18458   changed feature:[ 0  1 18] kendalltau=-0.2967  ratioNDCG:0   delta_NDCG =  0.0
+18464   changed feature:[ 0  1 31] kendalltau=-0.4333  ratioNDCG:0.3158   delta_NDCG =  0.1271
+18468   changed feature:[ 0  1 35] kendalltau=-0.2571  ratioNDCG:0.0395   delta_NDCG =  0.0119
