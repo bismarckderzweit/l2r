@@ -15,6 +15,18 @@ def rand_row(array,dim_needed):
     return array[row_sequence[0:dim_needed],:]
 
 
+def get_set_cover_beam(shap_values):
+    shap_values =np.array([shap_values])
+    sumvalue = np.sum(shap_values,axis=1)
+    feature_index=((-sumvalue).argsort())[0]
+    return feature_index
+
+def get_set_cover2(shap_values):
+    shap_values =np.array([shap_values])
+    sumvalue = np.sum(shap_values,axis=1)
+    feature_index=((-sumvalue).argsort())[0][:2]
+    return feature_index
+
 def get_set_cover(shap_values):
     """
     get scores of the samples of this query and rank them according to the scores,
@@ -67,7 +79,7 @@ def evaluate(model, restore_path):
     :return: NDCG@10
     """
     args = ['java', '-jar', 'RankLib-2.12.jar', '-load', model, '-test', restore_path,
-            '-metric2T', 'NDCG@10', '-gmax', '3']
+            '-metric2T', 'NDCG@10']
     process = subprocess.check_output(args, stderr=subprocess.STDOUT, timeout=5000)
     metric = ((str(process, 'utf-8').splitlines())[-1]).split(' ')[-1]
     return metric
@@ -86,17 +98,17 @@ def get_pairsname(ranked_test_data, pairnumbers):
     pairsname = ['{}>{}'.format('d' + str(pairs[i][0]), 'd' + str(pairs[i][1])) for i in range(pairnumbers)]
     return pairsname
 
-
-def get_pairsname(ranked_test_data, pairnumbers):
+"""
+def get_weight_pairsname(ranked_test_data, pairnumbers):
     pairs = np.array([c for c in combinations(range(1, len(ranked_test_data) + 1), 2)])
-    pairs2 = np.array([(pairs[i,1]-pairs[i,0]) for i in range(pairs.shape[0])]).reshape(-1,1)
-    pairs = np.append(pairs, pairs2,axis=1)
-    pairs = np.array((pairs[(-pairs[:,-1]).argsort()])[:,:-1])
-    pairs = pairs[:pairnumbers]
+    maxi = pairs.max(axis = 0)[0]
+    sumi = sum([maxi+1-pairs[i,0] for i in range(pairs.shape[0])])
+    prob = [(maxi+1-pairs[i,0])/sumi for i in range(pairs.shape[0])]
+    pairs = pairs[np.random.choice(pairs.shape[0], pairnumbers , replace=False, p = prob), :]
     pairs = pairs[np.argsort(pairs[:, 0])]
     pairsname = ['{}>{}'.format('d' + str(pairs[i][0]), 'd' + str(pairs[i][1])) for i in range(pairnumbers)]
     return pairsname
-"""
+
 def get_pairsname(ranked_test_data, pairnumbers):
     """
     randomly get pairs for fulling the matrix
@@ -105,12 +117,6 @@ def get_pairsname(ranked_test_data, pairnumbers):
     :return: the string of pairs
     """
     pairs = np.array([c for c in combinations(range(1, len(ranked_test_data) + 1), 2)])
-    if len(pairs) < pairnumbers:
-        originalpairs = pairs
-        for i in range(pairnumbers):
-            pairs = np.concatenate((pairs, originalpairs))
-            if len(pairs) >= pairnumbers:
-                break
     pairs = pairs[np.random.choice(pairs.shape[0], pairnumbers , replace=False), :]
     pairs = pairs[np.argsort(pairs[:, 0])]
     pairsname = ['{}>{}'.format('d' + str(pairs[i][0]), 'd' + str(pairs[i][1])) for i in range(pairnumbers)]

@@ -20,7 +20,7 @@ def extractQuery(split):
         for i in range(48, 57):
             Query += (split[i] + ' ')
     else:
-        Query = "#docid = GX004-93-7097963 inc = 0.0428115405134536 prob = 0.860366 "
+        Query = " "
     return Query
 
 

@@ -1,76 +1,156 @@
-18377   changed feature:[0 2 3] kendalltau=0.5238  ratioNDCG:0.0466   delta_NDCG =  0.0247
-18437   changed feature:[0 1 2] kendalltau=0.1429  ratioNDCG:0.4286   delta_NDCG =  0.4196
-18531   changed feature:[1 2 3] kendalltau=0.2143  ratioNDCG:-0.1761   delta_NDCG =  -0.1497
-18662   changed feature:[0 1 3] kendalltau=0.2143  ratioNDCG:-0.0711   delta_NDCG =  -0.0503
-18342   changed feature:[1 2 3] kendalltau=0.5  ratioNDCG:0.0793   delta_NDCG =  0.0307
-18400   changed feature:[0 2 3] kendalltau=0.1429  ratioNDCG:-0.1609   delta_NDCG =  -0.0693
-18603   changed feature:[0 1 2] kendalltau=0.5714  ratioNDCG:0.3691   delta_NDCG =  0.3691
-18219   changed feature:[0 1 2] kendalltau=0.8571  ratioNDCG:-0.4648   delta_NDCG =  -0.2002
-18457   changed feature:[1 2 3] kendalltau=0.1429  ratioNDCG:0   delta_NDCG =  0.0
-18631   changed feature:[1 2 3] kendalltau=0.0095  ratioNDCG:0.6455   delta_NDCG =  0.5593
-18468   changed feature:[0 1 2] kendalltau=0.181  ratioNDCG:-0.2618   delta_NDCG =  -0.1309
-18488   changed feature:[1 2 3] kendalltau=0.0333  ratioNDCG:0.4822   delta_NDCG =  0.4205
-18410   changed feature:[0 1 3] kendalltau=0.2863  ratioNDCG:0.1682   delta_NDCG =  0.1461
-18511   changed feature:[0 1 2] kendalltau=0.2383  ratioNDCG:-0.0727   delta_NDCG =  -0.0339
-18574   changed feature:[0 2 3] kendalltau=0.1288  ratioNDCG:0.1963   delta_NDCG =  0.0309
-18552   changed feature:[0 1 3] kendalltau=0.7143  ratioNDCG:0   delta_NDCG =  0.0
-18626   changed feature:[0 1 3] kendalltau=0.5  ratioNDCG:-0.2392   delta_NDCG =  -0.1557
-18356   changed feature:[0 1 2] kendalltau=0.0  ratioNDCG:0.0141   delta_NDCG =  0.0128
-18686   changed feature:[1 2 3] kendalltau=0.2857  ratioNDCG:0   delta_NDCG =  0.0
-18378   changed feature:[0 1 2] kendalltau=0.2333  ratioNDCG:0   delta_NDCG =  0.0
-18470   changed feature:[0 1 2] kendalltau=0.2143  ratioNDCG:0.0   delta_NDCG =  0.0
-18458   changed feature:[0 2 3] kendalltau=-0.033  ratioNDCG:0   delta_NDCG =  0.0
-18489   changed feature:[0 1 2] kendalltau=0.619  ratioNDCG:0.0487   delta_NDCG =  0.0487
-18638   changed feature:[0 2 3] kendalltau=0.0714  ratioNDCG:0   delta_NDCG =  0.0
-18438   changed feature:[0 1 2] kendalltau=0.1667  ratioNDCG:0.3101   delta_NDCG =  0.308
-18401   changed feature:[0 1 2] kendalltau=0.1667  ratioNDCG:0   delta_NDCG =  0.0
-18411   changed feature:[0 1 2] kendalltau=0.4333  ratioNDCG:0   delta_NDCG =  0.0
-18230   changed feature:[0 2 3] kendalltau=0.0437  ratioNDCG:-0.6478   delta_NDCG =  -0.2364
-18525   changed feature:[0 1 2] kendalltau=0.1792  ratioNDCG:-0.0462   delta_NDCG =  -0.0442
-18577   changed feature:[0 2 3] kendalltau=0.2  ratioNDCG:-0.2134   delta_NDCG =  -0.1289
-18371   changed feature:[1 2 3] kendalltau=0.4286  ratioNDCG:0.0601   delta_NDCG =  0.0601
-18699   changed feature:[0 1 3] kendalltau=-0.0476  ratioNDCG:-0.1609   delta_NDCG =  -0.0693
-18479   changed feature:[0 1 2] kendalltau=0.6429  ratioNDCG:0.2919   delta_NDCG =  0.249
-18648   changed feature:[0 1 2] kendalltau=0.5  ratioNDCG:0   delta_NDCG =  0.0
-18629   changed feature:[0 1 3] kendalltau=0.3833  ratioNDCG:-0.1047   delta_NDCG =  -0.0731
-18386   changed feature:[0 2 3] kendalltau=0.3143  ratioNDCG:0.4623   delta_NDCG =  0.2983
-18450   changed feature:[0 1 2] kendalltau=0.619  ratioNDCG:0.0307   delta_NDCG =  0.0269
-18464   changed feature:[0 1 2] kendalltau=0.4667  ratioNDCG:0.027   delta_NDCG =  0.0098
-18571   changed feature:[0 1 3] kendalltau=-0.0423  ratioNDCG:0   delta_NDCG =  0.0
-18402   changed feature:[0 1 2] kendalltau=0.15  ratioNDCG:1.0   delta_NDCG =  0.3333
-18328   changed feature:[0 1 2] kendalltau=0.7143  ratioNDCG:0.0   delta_NDCG =  0.0
-18429   changed feature:[0 1 2] kendalltau=0.0833  ratioNDCG:0.0972   delta_NDCG =  0.0601
-18490   changed feature:[1 2 3] kendalltau=0.0719  ratioNDCG:0.7243   delta_NDCG =  0.2438
-18599   changed feature:[0 1 2] kendalltau=0.1048  ratioNDCG:0.0451   delta_NDCG =  0.0417
-18526   changed feature:[1 2 3] kendalltau=0.0802  ratioNDCG:0   delta_NDCG =  0.0
-18714   changed feature:[0 1 3] kendalltau=0.4833  ratioNDCG:0.1862   delta_NDCG =  0.1722
-18738   changed feature:[0 1 2] kendalltau=0.2167  ratioNDCG:0   delta_NDCG =  0.0
-18765   changed feature:[0 1 2] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
-18774   changed feature:[0 1 2] kendalltau=0.1667  ratioNDCG:0.082   delta_NDCG =  0.082
-18853   changed feature:[0 1 2] kendalltau=0.3333  ratioNDCG:0   delta_NDCG =  0.0
-18919   changed feature:[0 1 3] kendalltau=0.2952  ratioNDCG:-0.7712   delta_NDCG =  -0.2747
-19034   changed feature:[0 1 2] kendalltau=0.2667  ratioNDCG:0   delta_NDCG =  0.0
-18826   changed feature:[0 1 3] kendalltau=0.2177  ratioNDCG:-0.7789   delta_NDCG =  -0.2529
-19101   changed feature:[0 1 3] kendalltau=0.3571  ratioNDCG:0.3086   delta_NDCG =  0.2459
-18963   changed feature:[1 2 3] kendalltau=0.0323  ratioNDCG:-0.2681   delta_NDCG =  -0.1087
-19059   changed feature:[0 1 2] kendalltau=0.127  ratioNDCG:0.0814   delta_NDCG =  0.0393
-19153   changed feature:[0 1 2] kendalltau=0.7857  ratioNDCG:0.0322   delta_NDCG =  0.0291
-18995   changed feature:[0 1 2] kendalltau=0.1208  ratioNDCG:-0.1871   delta_NDCG =  -0.1147
-19121   changed feature:[1 2 3] kendalltau=0.2607  ratioNDCG:0   delta_NDCG =  0.0
-19186   changed feature:[0 1 2] kendalltau=0.9048  ratioNDCG:0.0   delta_NDCG =  0.0
-19236   changed feature:[0 1 3] kendalltau=0.5  ratioNDCG:-0.3126   delta_NDCG =  -0.2312
-18731   changed feature:[0 1 3] kendalltau=-0.0714  ratioNDCG:0.3173   delta_NDCG =  0.2002
-18767   changed feature:[0 2 3] kendalltau=-0.0714  ratioNDCG:0.2579   delta_NDCG =  0.2473
-18889   changed feature:[0 1 2] kendalltau=0.4667  ratioNDCG:0   delta_NDCG =  0.0
-18806   changed feature:[0 1 2] kendalltau=0.6429  ratioNDCG:0.0   delta_NDCG =  0.0
-19041   changed feature:[0 1 2] kendalltau=0.8571  ratioNDCG:0.1215   delta_NDCG =  0.0693
-18930   changed feature:[1 2 3] kendalltau=0.4167  ratioNDCG:0   delta_NDCG =  0.0
-19108   changed feature:[0 1 2] kendalltau=0.2857  ratioNDCG:0   delta_NDCG =  0.0
-18838   changed feature:[0 1 3] kendalltau=0.35  ratioNDCG:0   delta_NDCG =  0.0
-19174   changed feature:[1 2 3] kendalltau=0.3571  ratioNDCG:0.0079   delta_NDCG =  0.0078
-18979   changed feature:[1 2 3] kendalltau=0.5167  ratioNDCG:0.0949   delta_NDCG =  0.0639
-19097   changed feature:[0 1 2] kendalltau=0.1815  ratioNDCG:0   delta_NDCG =  0.0
-18996   changed feature:[0 1 2] kendalltau=0.1619  ratioNDCG:0   delta_NDCG =  0.0
-19128   changed feature:[0 2 3] kendalltau=0.3939  ratioNDCG:-0.1834   delta_NDCG =  -0.0552
-19193   changed feature:[0 1 2] kendalltau=0.3571  ratioNDCG:0.0   delta_NDCG =  0.0
-19248   changed feature:[0 2 3] kendalltau=0.4286  ratioNDCG:0.1682   delta_NDCG =  0.1368
+18219   changed feature:[ 0  2 24] kendalltau=1.0  ratioNDCG:-0.1609   delta_NDCG =  -0.0693
+18230   changed feature:[35 38 41] kendalltau=0.3246  ratioNDCG:0.0304   delta_NDCG =  0.0111
+18328   changed feature:[ 0  1 36] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+18342   changed feature:[ 0  2 21] kendalltau=1.0  ratioNDCG:0.0001   delta_NDCG =  0.0
+18356   changed feature:[ 4 21 30] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+18371   changed feature:[ 0  1 29] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+18377   changed feature:[ 3 11 21] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+18378   changed feature:[ 3 20 26] kendalltau=0.85  ratioNDCG:0   delta_NDCG =  0.0
+18386   changed feature:[22 25 28] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+18400   changed feature:[ 1  2 22] kendalltau=1.0  ratioNDCG:-0.1609   delta_NDCG =  -0.0693
+18401   changed feature:[24 29 39] kendalltau=0.8167  ratioNDCG:0   delta_NDCG =  0.0
+18402   changed feature:[17 39 41] kendalltau=0.7333  ratioNDCG:-0.5002   delta_NDCG =  -0.1667
+18410   changed feature:[21 31 41] kendalltau=0.4718  ratioNDCG:0.0291   delta_NDCG =  0.0253
+18411   changed feature:[ 1 20 23] kendalltau=0.8833  ratioNDCG:0   delta_NDCG =  0.0
+18429   changed feature:[12 13 22] kendalltau=0.8  ratioNDCG:0.0   delta_NDCG =  0.0
+18437   changed feature:[ 0  3 21] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+18438   changed feature:[ 4 36 39] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+18450   changed feature:[ 0 12 36] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+18457   changed feature:[ 2 20 43] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+18458   changed feature:[17 22 37] kendalltau=0.7802  ratioNDCG:0   delta_NDCG =  0.0
+18464   changed feature:[ 3 24 36] kendalltau=0.7667  ratioNDCG:-0.0657   delta_NDCG =  -0.0238
+18468   changed feature:[11 28 38] kendalltau=0.9048  ratioNDCG:-0.2619   delta_NDCG =  -0.1309
+18470   changed feature:[ 1  4 23] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+18479   changed feature:[ 0 12 16] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+18488   changed feature:[17 20 23] kendalltau=0.8667  ratioNDCG:-0.0353   delta_NDCG =  -0.0308
+18489   changed feature:[ 0  1 21] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+18490   changed feature:[25 29 38] kendalltau=0.4705  ratioNDCG:-0.086   delta_NDCG =  -0.029
+18511   changed feature:[ 1 10 21] kendalltau=0.4798  ratioNDCG:0.1298   delta_NDCG =  0.0605
+18525   changed feature:[20 29 37] kendalltau=0.4039  ratioNDCG:0.0715   delta_NDCG =  0.0683
+18526   changed feature:[ 2 34 39] kendalltau=0.3729  ratioNDCG:0   delta_NDCG =  0.0
+18531   changed feature:[ 1  2 23] kendalltau=1.0  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+18552   changed feature:[ 0 28 39] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+18571   changed feature:[12 17 38] kendalltau=0.6455  ratioNDCG:0   delta_NDCG =  0.0
+18574   changed feature:[ 1 30 38] kendalltau=0.3142  ratioNDCG:0.0517   delta_NDCG =  0.0081
+18577   changed feature:[12 20 40] kendalltau=0.6833  ratioNDCG:0.034   delta_NDCG =  0.0206
+18599   changed feature:[ 1 20 29] kendalltau=0.9619  ratioNDCG:0.008   delta_NDCG =  0.0074
+18603   changed feature:[ 1  2 22] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+18626   changed feature:[20 30 40] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+18629   changed feature:[10 20 25] kendalltau=0.9333  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+18631   changed feature:[ 1 20 29] kendalltau=0.7714  ratioNDCG:-0.0   delta_NDCG =  -0.0
+18638   changed feature:[ 0  1 21] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+18648   changed feature:[ 0  1 23] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+18662   changed feature:[ 2 20 24] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+18686   changed feature:[ 0  3 23] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+18699   changed feature:[ 1 20 22] kendalltau=1.0  ratioNDCG:0.0001   delta_NDCG =  0.0
+18714   changed feature:[11 19 21] kendalltau=0.9333  ratioNDCG:-0.0182   delta_NDCG =  -0.0168
+18731   changed feature:[ 0 24 37] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+18733   changed feature:[ 0  1 23] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+18738   changed feature:[ 0 25 37] kendalltau=0.8667  ratioNDCG:0   delta_NDCG =  0.0
+18765   changed feature:[0 1 2] kendalltau=1.0  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+18767   changed feature:[ 4 29 43] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+18774   changed feature:[22 23 24] kendalltau=0.8667  ratioNDCG:0.405   delta_NDCG =  0.405
+18806   changed feature:[ 0  2 22] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+18822   changed feature:[ 1 10 17] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+18826   changed feature:[ 2 20 38] kendalltau=0.5444  ratioNDCG:-0.4153   delta_NDCG =  -0.1348
+18838   changed feature:[ 1 21 30] kendalltau=0.8833  ratioNDCG:0   delta_NDCG =  0.0
+18844   changed feature:[12 37 41] kendalltau=0.5269  ratioNDCG:0   delta_NDCG =  0.0
+18853   changed feature:[ 1 15 37] kendalltau=0.981  ratioNDCG:0   delta_NDCG =  0.0
+18889   changed feature:[ 0  1 20] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+18910   changed feature:[23 30 37] kendalltau=0.6387  ratioNDCG:-0.0385   delta_NDCG =  -0.0279
+18919   changed feature:[ 1 10 24] kendalltau=0.7905  ratioNDCG:-0.0   delta_NDCG =  -0.0
+18930   changed feature:[11 38 40] kendalltau=0.7  ratioNDCG:0   delta_NDCG =  0.0
+18960   changed feature:[ 3 31 38] kendalltau=0.8  ratioNDCG:0   delta_NDCG =  0.0
+18963   changed feature:[21 24 26] kendalltau=0.5441  ratioNDCG:-0.1801   delta_NDCG =  -0.073
+18979   changed feature:[12 24 37] kendalltau=0.9833  ratioNDCG:0.0264   delta_NDCG =  0.0178
+18985   changed feature:[ 0 23 28] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+18995   changed feature:[ 2 12 22] kendalltau=0.3974  ratioNDCG:-0.2556   delta_NDCG =  -0.1567
+18996   changed feature:[26 28 38] kendalltau=0.981  ratioNDCG:0   delta_NDCG =  0.0
+19003   changed feature:[ 0  1 25] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+19034   changed feature:[22 26 29] kendalltau=0.8833  ratioNDCG:0   delta_NDCG =  0.0
+19041   changed feature:[ 0 18 20] kendalltau=1.0  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+19042   changed feature:[21 36 40] kendalltau=0.5226  ratioNDCG:0   delta_NDCG =  -0.3155
+19059   changed feature:[19 20 29] kendalltau=0.6772  ratioNDCG:0.1478   delta_NDCG =  0.0714
+19097   changed feature:[23 26 39] kendalltau=0.5605  ratioNDCG:0   delta_NDCG =  0.0
+19099   changed feature:[ 0 12 36] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19101   changed feature:[ 1 22 36] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+19108   changed feature:[ 0  2 24] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19116   changed feature:[12 26 39] kendalltau=0.3748  ratioNDCG:0.1806   delta_NDCG =  0.0934
+19121   changed feature:[ 2 39 41] kendalltau=0.4436  ratioNDCG:0   delta_NDCG =  0.0
+19128   changed feature:[26 28 37] kendalltau=0.9091  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+19140   changed feature:[ 0  1 23] kendalltau=1.0  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+19153   changed feature:[ 0  2 37] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+19174   changed feature:[ 1 20 38] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+19182   changed feature:[28 36 38] kendalltau=0.9429  ratioNDCG:0   delta_NDCG =  0.0
+19186   changed feature:[ 0  1 43] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+19193   changed feature:[ 0  2 20] kendalltau=1.0  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+19216   changed feature:[11 17 39] kendalltau=0.7333  ratioNDCG:0.015   delta_NDCG =  0.0077
+19236   changed feature:[ 4 22 25] kendalltau=1.0  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+19248   changed feature:[ 0  1 36] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+19254   changed feature:[ 0  3 36] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19276   changed feature:[11 22 28] kendalltau=0.9  ratioNDCG:0   delta_NDCG =  0.0
+19349   changed feature:[ 0  1 20] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+19352   changed feature:[ 1 22 28] kendalltau=0.6516  ratioNDCG:0.0253   delta_NDCG =  0.0145
+19353   changed feature:[10 24 33] kendalltau=0.2483  ratioNDCG:-1.5623   delta_NDCG =  -0.4762
+19356   changed feature:[ 0  2 21] kendalltau=1.0  ratioNDCG:0.0001   delta_NDCG =  0.0
+19364   changed feature:[12 28 38] kendalltau=0.8667  ratioNDCG:-0.0162   delta_NDCG =  -0.0133
+19370   changed feature:[ 0 12 22] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19371   changed feature:[ 0 16 36] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+19372   changed feature:[ 0  1 21] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+19383   changed feature:[ 4 20 43] kendalltau=0.7833  ratioNDCG:0   delta_NDCG =  0.0
+19390   changed feature:[ 0 18 38] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19396   changed feature:[16 21 29] kendalltau=0.8286  ratioNDCG:0   delta_NDCG =  0.0
+19400   changed feature:[17 39 41] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19413   changed feature:[12 16 23] kendalltau=0.9333  ratioNDCG:-0.0   delta_NDCG =  -0.0
+19419   changed feature:[ 0  1 37] kendalltau=1.0  ratioNDCG:0.0001   delta_NDCG =  0.0
+19437   changed feature:[ 0  1 21] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+19449   changed feature:[ 1  2 38] kendalltau=0.981  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+19454   changed feature:[ 0  1 21] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+19457   changed feature:[23 25 31] kendalltau=0.9833  ratioNDCG:0   delta_NDCG =  0.0
+19483   changed feature:[ 1 10 18] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19486   changed feature:[ 0 11 37] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19487   changed feature:[ 0  1 28] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19493   changed feature:[23 24 29] kendalltau=0.8  ratioNDCG:0   delta_NDCG =  0.0
+19494   changed feature:[ 2 14 23] kendalltau=0.8167  ratioNDCG:0   delta_NDCG =  0.0
+19503   changed feature:[23 27 32] kendalltau=0.7524  ratioNDCG:0   delta_NDCG =  0.0
+19511   changed feature:[ 0 21 27] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19536   changed feature:[ 1 11 37] kendalltau=0.8286  ratioNDCG:0.0344   delta_NDCG =  0.0269
+19548   changed feature:[ 0 24 39] kendalltau=0.9286  ratioNDCG:0   delta_NDCG =  0.0
+19554   changed feature:[28 36 41] kendalltau=0.9048  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+19576   changed feature:[ 0  4 22] kendalltau=1.0  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+19586   changed feature:[ 1 21 25] kendalltau=1.0  ratioNDCG:0.0001   delta_NDCG =  0.0
+19595   changed feature:[ 0 12 24] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+19602   changed feature:[ 0  1 40] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19603   changed feature:[22 24 28] kendalltau=0.5911  ratioNDCG:0.2219   delta_NDCG =  0.0859
+19633   changed feature:[ 1 10 37] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+19681   changed feature:[ 0  1 20] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19682   changed feature:[ 2 21 38] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19720   changed feature:[ 1 22 29] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19731   changed feature:[ 0  1 20] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+19736   changed feature:[11 21 41] kendalltau=0.6175  ratioNDCG:-0.0   delta_NDCG =  -0.0
+19737   changed feature:[ 0 38 41] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+19756   changed feature:[ 0  1 23] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+19770   changed feature:[ 2 20 26] kendalltau=0.6976  ratioNDCG:0.0   delta_NDCG =  0.0
+19771   changed feature:[ 1  3 21] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19782   changed feature:[25 38 41] kendalltau=0.2514  ratioNDCG:-0.2744   delta_NDCG =  -0.1303
+19806   changed feature:[18 22 36] kendalltau=0.9429  ratioNDCG:0.1468   delta_NDCG =  0.1227
+19808   changed feature:[25 28 38] kendalltau=1.0  ratioNDCG:-0.0186   delta_NDCG =  -0.0134
+19812   changed feature:[ 0  2 22] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+19836   changed feature:[ 2 36 41] kendalltau=0.8  ratioNDCG:-0.2923   delta_NDCG =  -0.1131
+19851   changed feature:[20 29 31] kendalltau=0.4098  ratioNDCG:0.13   delta_NDCG =  0.075
+19853   changed feature:[10 23 29] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+19854   changed feature:[12 37 41] kendalltau=0.8667  ratioNDCG:0   delta_NDCG =  0.0
+19864   changed feature:[20 25 28] kendalltau=1.0  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+19875   changed feature:[ 0 11 21] kendalltau=1.0  ratioNDCG:0   delta_NDCG =  0.0
+19898   changed feature:[ 0  2 37] kendalltau=1.0  ratioNDCG:0.0   delta_NDCG =  0.0
+19906   changed feature:[ 0  1 20] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
+19913   changed feature:[21 28 36] kendalltau=0.7333  ratioNDCG:0   delta_NDCG =  0.0
+19916   changed feature:[ 0  1 39] kendalltau=0.6817  ratioNDCG:0.0   delta_NDCG =  0.0
+19921   changed feature:[ 4 21 27] kendalltau=0.7667  ratioNDCG:0.2795   delta_NDCG =  0.121
+19938   changed feature:[ 1 25 38] kendalltau=0.6331  ratioNDCG:0   delta_NDCG =  0.0
+19949   changed feature:[ 0 12 20] kendalltau=0.9667  ratioNDCG:-0.1787   delta_NDCG =  -0.0985
+19954   changed feature:[ 0 22 28] kendalltau=1.0  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+19960   changed feature:[23 26 44] kendalltau=0.5121  ratioNDCG:-1.0   delta_NDCG =  -0.5
+19965   changed feature:[22 30 31] kendalltau=0.7905  ratioNDCG:-0.0001   delta_NDCG =  -0.0
+19987   changed feature:[ 1 20 39] kendalltau=0.7075  ratioNDCG:0   delta_NDCG =  0.0
+19997   changed feature:[ 0  1 21] kendalltau=1.0  ratioNDCG:-0.0   delta_NDCG =  -0.0
