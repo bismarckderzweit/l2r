@@ -1,6 +1,6 @@
 Explanations for Learning-to-Rank models
 =========================================
-This repository is a toolbox conbines with several kinds of methods to explain learning to rank models,
+This repository is a toolbox conbines with several kinds of methods to explain learning to rank models, the paper can be find here: [paper](https://arxiv.org/abs/2004.13972).
 they extract small subset of input features as an explaination to the ranking decision. Specifically, they can be classified into the several categories：
 
 - Shapk methods
